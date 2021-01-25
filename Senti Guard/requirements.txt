@@ -1,0 +1,10 @@
+pyyaml
+discord.py==1.4
+asyncpg
+aioredis
+google-cloud-vision
+jishaku
+durations_nlp
+psutil
+parsedatetime
+fuzzywuzzy

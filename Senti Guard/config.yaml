@@ -1,0 +1,23 @@
+token: ""
+warnings: {3: {'action': 'mute', 'duration': 7200}, 4: {'action': 'mute', 'duration': 10800}, 5: {'action': 'mute', 'duration': 14400}, 6: {'action': 'mute', 'duration': 18000}, 7: {'action': 'mute', 'duration': 21600}, 8: {'action': 'mute', 'duration': 25200}, 9: {'action': 'mute', 'duration': 28800}, 10: {'action': 'mute', 'duration': 32400}, 11: {'action': 'mute', 'duration': 36000}, 12: {'action': 'mute', 'duration': 39600}, 13: {'action': 'mute', 'duration': 43200}, 14: {'action': 'mute', 'duration': 46800}, 15: {'action': 'mute', 'duration': 50400}, 16: {'action': 'mute', 'duration': 54000}, 17: {'action': 'mute', 'duration': 57600}, 18: {'action': 'mute', 'duration': 61200}, 19: {'action': 'mute', 'duration': 64800}, 20: {'action': 'mute', 'duration': 68400}, 21: {'action': 'mute', 'duration': 72000}, 22: {'action': 'mute', 'duration': 75600}, 23: {'action': 'mute', 'duration': 79200}, 24: {'action': 'mute', 'duration': 82800}, 25: {'action': 'mute', 'duration': 86400}, 26: {'action': 'mute', 'duration': 90000}, 27: {'action': 'mute', 'duration': 93600}, 28: {'action': 'mute', 'duration': 97200}, 29: {'action': 'mute', 'duration': 100800}, 30: {'action': 'mute', 'duration': 104400}, 31: {'action': 'mute', 'duration': 108000}, 32: {'action': 'mute', 'duration': 111600}, 33: {'action': 'mute', 'duration': 115200}, 34: {'action': 'mute', 'duration': 118800}, 35: {'action': 'mute', 'duration': 122400}, 36: {'action': 'mute', 'duration': 126000}, 37: {'action': 'mute', 'duration': 129600}, 38: {'action': 'mute', 'duration': 133200}, 39: {'action': 'mute', 'duration': 136800}, 40: {'action': 'mute'}}
+error_logs: 688789833971400704
+Redis:
+  host: "localhost"
+  port: 6379
+
+Postgres:
+  host: "localhost"
+  port: 5432
+  database: "sentiguard"
+  user: "postgres"
+  password: "BS103261"
+
+Emojis:
+  badge_partner: "<:badge_partner:756933331823624210>"
+  badge_bug_hunter: "<:badge_bug_hunter:756933331890733136>"
+  badge_hypesquad_bravery: "<:badge_hypesquad_bravery:756933331794395224>"
+  badge_hypesquad_brilliance: "<:badge_hypesquad_brilliance:756933331525828610>"
+  badge_hypesquad_balance: "<:badge_hypesquad_balance:756933331773292574>"
+  badge_early_supporter: "<:badge_early_supporter:756933331349929996>"
+  badge_bug_hunter_level_2: "<:badge_bug_hunter_level_2:756933331823624291>"
+  badge_verified_bot_developer: "<:badge_verified_bot_developer:756933331752321145>"
